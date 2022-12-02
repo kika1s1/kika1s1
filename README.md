@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamirat kebede
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning IOS Development and also  Webdeveloper  working as freelancer.
-- 💞️ I’m looking to collaborate with programmers all over the world who have a passion on IOS Development.
+- 🌱 I’m currently Webdeveloper  working as freelancer.
+- 💞️ I’m looking to collaborate with programmers all over the world who have a passion on Webdeveloper.
 - 📫 you can reach me out at tamiratkebede120@gmail.com
 
 <!---
