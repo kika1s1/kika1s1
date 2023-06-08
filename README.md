@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Tamirat kebede
-- 👀 I’m interested in Web Development. 
-- 🌱 I’m currently MERNSTACK WEBDEVELOPER working as freelancer.
-- 💞️ I’m looking to collaborate with programmers all over the world who have a passion on Webdevelopment.
-- 📫 you can reach me out at <a href="https://tamiratnow.tech/">tamiratnow.tech</a>
+- 👋  Hi, I'm Tamirat Kebede, a MERN stack web developer working as a freelancer. 
 - 💬 Ask me about MERNSTACK
 
 <a  href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tamirat-kebede" target="_blank">Follow on LinkedIn</a>
