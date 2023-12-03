@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamirat Kebede</h1>
 <h3 align="center">A passionate MERN stack web developer working as a freelancer from Ethiopia</h3>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/521959ac748ff251df0ea9a5287eaff693b6dd8c688b496f52cd45a4a7eb557f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736875746f73682d706d6973687261266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/521959ac748ff251df0ea9a5287eaff693b6dd8c688b496f52cd45a4a7eb557f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736875746f73682d706d6973687261266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ashutosh-pmishra" data-canonical-src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </p>
 
 - 🌱 I’m currently learning **NEXTjs**
@@ -13,7 +15,7 @@
 
 - 📄 Know about my experiences [https://kika1s1.github.io/tamirat/](https://kika1s1.github.io/tamirat/)
 
-- ⚡ Fun fact **I think i am hard worker**
+- ⚡ Fun fact **I am 🕴️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
