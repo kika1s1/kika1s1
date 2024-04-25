@@ -2,6 +2,12 @@
 <h3 align="center">A passionate MERN stack web developer.</h3>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </span> <span align="left"> <a href="https://twitter.com/tamratkebede12" target="blank"><img src="https://img.shields.io/twitter/follow/tamratkebede12?logo=twitter&style=for-the-badge" alt="tamratkebede12" /></a> </span> <span align="left"> <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge"> </span>
+![GitHub followers](https://img.shields.io/github/followers/kika1s1)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6BLenPB1Yii_lN2HXIP3jA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6BLenPB1Yii_lN2HXIP3jA)
+
+
+
 
 - 🌱 I’m currently learning ****NEXTjs****
 
