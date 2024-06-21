@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning ****NEXTjs****
+- 🌱 I’m currently learning ****WEB3****
 
 - 👨‍💻 All of my projects are available at [https://kika1s1.github.io/tamirat/](https://kika1s1.github.io/tamirat/)
 
-- 💬 Ask me about **Node, React, Mongodb, express**
+- 💬 Ask me about **Nextjs, Node, React, MongoDB, express**
 
 - 📫 How to reach me **tamiratkebede120@gmail.com**
 
