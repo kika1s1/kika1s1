@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kika1s1.github.io/tamirat/](https://kika1s1.github.io/tamirat/)
 
-- 💬 Ask me about **Nextjs, Node, React, MongoDB, express**
+- 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native**
 
 - 📫 How to reach me **tamiratkebede120@gmail.com**
 
-- ⚡ Fun fact **I am 🕴️**
+- ⚡ Fun fact **I am a strong advocate for Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
