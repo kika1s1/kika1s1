@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native**
 
-- 📫 How to reach me **tamiratkebede120@gmail.com**
+- 📫 How to reach me  [**CONNECT**](https://tamiratkebede120@gmail.com/)
 
 - ⚡ Fun fact **I am a strong advocate for Node**
 
