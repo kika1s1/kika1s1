@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Tamirat Kebede</h1>
+<h1 align="center">Hi 👋, I'm Tamirat Kebede</h1>
 <h3 align="center">A passionate Full Stack  Engineer.</h3>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </span> <span align="left"> <a href="https://twitter.com/tamratkebede12" target="blank"><img src="https://img.shields.io/twitter/follow/tamratkebede12?logo=twitter&style=for-the-badge" alt="tamratkebede12" /></a> </span> <span align="left"> <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge"> </span>
