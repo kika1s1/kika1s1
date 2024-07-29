@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning ****WEB3****
+- 🌱 I’m currently learning ****Go and WEB3****
 
 - 👨‍💻 All of my projects are available at [My Works](https://kika1s1.github.io/portfolio/)
 
