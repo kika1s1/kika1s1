@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning ****Go and WEB3****
+- 🌱 I’m currently learning ****WEB3****
 
 - 👨‍💻 All of my projects are available at [My Works](https://kika1s1.github.io/portfolio/)
 
-- 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native**
+- 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO**
 
 - 📫 How to reach me  [**CONNECT**](https://tamiratkebede120@gmail.com/)
 
