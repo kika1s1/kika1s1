@@ -7,8 +7,6 @@
 
 
 
-- 🌱 I’m currently learning ****WEB3****
-
 - 👨‍💻 All of my projects are available at [My Works](https://kika1s1.github.io/portfolio/)
 
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO**
