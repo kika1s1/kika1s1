@@ -13,6 +13,7 @@
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO**
 
 - 📫 How to reach me  [**CONNECT**](https://tamiratkebede120@gmail.com/)
+- 📄 My Resume [**RESUME**](https://flowcv.com/resume/7ov4mtn735/)
 
 - ⚡ Fun fact **I am a strong advocate for Node**
 
