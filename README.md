@@ -9,7 +9,7 @@
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO**
 - 📫 Want to reach me tamiratkebede120@gmail.com
 - 📄 Want to visit My Resume [**RESUME**](https://flowcv.com/resume/7ov4mtn735/)
-- <a href="mailto:tamiratkebede120@gmail.com" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background: linear-gradient(45deg, #FF6B6B, #FFD93D); text-decoration: none; border-radius: 25px;">✨ Hire Tamirat ✨</a>
+- <a href="mailto:tamiratkebede120@gmail.com" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background: linear-gradient(45deg, #FF6B6B, #FFD93D); text-decoration: none; border-radius: 25px;">✨ Hire Tamirat ✨</a> 😁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kika1s1" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamiratkebede" height="30" width="40" /></a>
