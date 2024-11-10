@@ -6,7 +6,7 @@
 <p>In addition to Dev skill, I am a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
 
 - 👨‍💻 Want to visit my website [Website](https://kika1s1.github.io/portfolio/)
-- 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO**
+- 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO Django, Flask**
 - 📫 Want to reach me tamiratkebede120@gmail.com
 - 📄 Want to visit My Resume [**RESUME**](https://flowcv.com/resume/7ov4mtn735/)
 - <a href="mailto:tamiratkebede120@gmail.com" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; background: linear-gradient(45deg, #FF6B6B, #FFD93D); text-decoration: none; border-radius: 25px;">✨ Hire Tamirat ✨</a> 😁
