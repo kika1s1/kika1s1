@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi,👋 I'm Tamirat Kebede</h1>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </span>  <span align="left"> <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge"> </span>
-<p>A skilled Full-stack Web and Flutter developer with 3+ years of experience, I specialize in building scalable web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. My passion lies in crafting robust solutions that address real-world challenges while ensuring a seamless user experience.</p>
+<p>A skilled Full-stack Web and Flutter developer with 3+ years of experience, I specialize in building scalable web applications. My passion lies in crafting robust solutions that address real-world challenges while ensuring a seamless user experience.</p>
 
 <p>In addition to Dev skill, I am a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
 
