@@ -5,7 +5,7 @@
 
 <p>In addition tohis Dev skill, He is a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
 
-- 👨‍💻 Want to visit my website [Website](https://kika1s1.github.io/portfolio/)
+
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO Django, Flask**
 - 📫 Want to reach me tamiratkebede120@gmail.com
 - 📄 Want to visit Tamirat's Resume [**RESUME**](https://flowcv.com/resume/7ov4mtn735/)
