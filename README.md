@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi,👋 I'm Tamirat Kebede</h1>
+<h1 align="center">Hi,👋 I'm Tamirat </h1>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </span>  <span align="left"> <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge"> </span>
 <p>Tamirat is skilled Full-stack Web and Flutter developer with 3+ years of experience, he specialized in building scalable web applications. His passion lies in crafting robust solutions that address real-world challenges while ensuring a seamless user experience.</p>
 
