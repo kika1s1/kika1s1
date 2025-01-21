@@ -3,7 +3,7 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" /> </span>  <span align="left"> <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge"> </span>
 <p>Tamirat is skilled Full-stack Web and Flutter developer with 3+ years of experience, he specialized in building scalable web applications. His passion lies in crafting robust solutions that address real-world challenges while ensuring a seamless user experience.</p>
 
-<p>In addition tohis Dev skill, He is a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
+<p>In addition to his Dev skill, He is a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
 
 
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO Django, Flask**
