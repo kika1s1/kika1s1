@@ -2,7 +2,7 @@
 ## 💼 Looking for a Backend Developer?
 I specialize in creating clean, efficient, and scalable backend solutions. Let's discuss how I can help your project succeed!
 
-<div align="center">
+<div>
   <a href="mailto:tamiratkebede120@gmail.com">
     <img src="https://img.shields.io/badge/Let's_Talk-blue?style=for-the-badge" alt="Hire Me">
   </a>
