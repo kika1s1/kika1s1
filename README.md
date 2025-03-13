@@ -16,6 +16,6 @@ I specialize in creating clean, efficient, and scalable backend solutions. Let's
 
 
 - 💬 Ask me about **Nextjs, Node, React, MongoDB, Express, Flutter, React Native, GO Django, Flask**
-- 📫 Want to reach me tamiratkebede120@gmail.com
+- 📫 Want to reach me tammirat.kebede@gmail.com
 - 📄 Want to visit Tamirat's Resume [**RESUME**](https://flowcv.com/resume/7ov4mtn735/)
 - 📡 Join his community: [**CleanCodeAcademy**](https://t.me/cleancodeacademy/)
