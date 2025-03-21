@@ -10,7 +10,7 @@ I specialize in creating clean, efficient, and scalable backend solutions. Let's
 <p>Tamirat is skilled Full-stack Web and Flutter developer with 3+ years of experience, he specialized in building scalable web applications. His passion lies in crafting robust solutions that address real-world challenges while ensuring a seamless user experience.</p>
 
 
-<p>In addition to his Dev skill, He is a competitive programmer with over 1,000 problems solved on platforms like LeetCode and codeforce consistently honing my problem-solving skills.</p>
+<p>In addition to his Dev skill, he likes solving leetcode questions.</p>
 
 
 
