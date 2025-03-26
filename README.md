@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Tamirat Kebede
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kika1s1&label=Profile%20views&color=0e75b6&style=flat" alt="kika1s1" />
-  <img src="https://user-badge.committers.top/ethiopia/kika1s1.svg" alt="committers.top badge">
-</div>
-
-## 🚀 Full-Stack Developer
-
 I'm a passionate Full-Stack Developer with 3+ years of experience, specializing in building scalable web applications and mobile solutions. My expertise spans across web and mobile development, with a strong focus on creating robust, efficient, and user-friendly applications.
 
 ### 💡 Core Competencies
