@@ -20,19 +20,19 @@ const techStack = {
 };
 ```
 
-### 📫 Let's Connect!
+ <!-- ### 📫 Let's Connect! -->
 
 <div align="left">
-  <a href="mailto:tamiratkebede120@gmail.com">
+<!--   <a href="mailto:tamiratkebede120@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://flowcv.com/resume/7ov4mtn735/">
+  </a> -->
+<!--   <a href="https://flowcv.com/resume/7ov4mtn735/">
     <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge" alt="Resume">
   </a>
-  <a href="https://t.me/cleancodeacademy/">
+<!--   <a href="https://t.me/cleancodeacademy/">
     <img src="https://img.shields.io/badge/Telegram_Community-blue?style=for-the-badge" alt="Telegram">
-  </a>
-</div>
+  </a> --> 
+<!-- </div> -->
 
 ### 🎯 Current Focus
 
