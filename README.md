@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer with 3+ years of experience, specializing 
 - **Database**: MongoDB, SQL
 - **Mobile Development**: Flutter, React Native
 - **Problem Solving**: LeetCode enthusiast
-- **Community Building**: Founder of CleanCodeAcademy
+- **Community Building**: CleanCodeAcademy
 
 ### 🛠️ Tech Stack
 
