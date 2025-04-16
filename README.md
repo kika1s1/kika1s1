@@ -1,4 +1,4 @@
-I'm a passionate Full-Stack Developer with 3+ years of experience, specializing in building scalable web applications and mobile solutions. My expertise spans across web and mobile development, with a strong focus on creating robust, efficient, and user-friendly applications.
+I'm a passionate Full-Stack Developer with over 3 years of experience, specializing in building scalable and user friendly web and mobile applications. I'm also a machine learning and AI enthusiast, constantly exploring how intelligent systems can enhance modern software solutions. I enjoy combining full-stack development with AI to create smarter, more efficient, and data-driven applications.
 
 ### 💡 Core Competencies
 
@@ -6,6 +6,7 @@ I'm a passionate Full-Stack Developer with 3+ years of experience, specializing 
 - **Backend Development**: Node.js, Express, Django, Flask, Go
 - **Database**: MongoDB, SQL
 - **Mobile Development**: Flutter, React Native
+- **Machine Learning**: Scikit-learn, NumPy, SciPy,  matplotlib and TensorFlow  
 - **Problem Solving**: LeetCode enthusiast
 - **Community Building**: CleanCodeAcademy
 
