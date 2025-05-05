@@ -1,4 +1,4 @@
-I'm a passionate Full-Stack Developer with over 3 years of experience, specializing in building scalable and user friendly web and mobile applications. I'm also a machine learning and AI enthusiast, constantly exploring how intelligent systems can enhance modern software solutions. I enjoy combining full-stack development with AI to create smarter, more efficient, and data-driven applications.
+I'm a passionate Full-Stack Developer with over 4 years of experience, specializing in building scalable and user friendly web and mobile applications. I'm also a machine learning and AI enthusiast, constantly exploring how intelligent systems can enhance modern software solutions. I enjoy combining full-stack development with AI to create smarter, more efficient, and data-driven applications.
 
 ### 💡 Core Competencies
 
