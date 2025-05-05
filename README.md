@@ -17,7 +17,7 @@ const techStack = {
   frontend: ['Next.js', 'React', 'Flutter', 'React Native'],
   backend: ['Node.js', 'Express', 'Django', 'Flask', 'Go'],
   database: ['MongoDB', 'SQL'],
-  tools: ['Git', 'Docker', 'AWS', 'REST APIs']
+  tools: ['Git', 'Docker', 'REST APIs']
 };
 ```
 
