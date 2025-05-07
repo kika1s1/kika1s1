@@ -7,7 +7,6 @@ I'm a passionate Full-Stack Developer with over 4 years of experience, specializ
 - **Database**: MongoDB, SQL
 - **Mobile Development**: Flutter, React Native
 - **Machine Learning**: Scikit-learn, NumPy, SciPy,  matplotlib and TensorFlow  
-- **Problem Solving**: LeetCode enthusiast
 - **Community Building**: CleanCodeAcademy
 
 ### 🛠️ Tech Stack
