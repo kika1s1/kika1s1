@@ -5,7 +5,8 @@ I'm a passionate Full-Stack Developer with over 4 years of experience, specializ
 - **Frontend Development**: Next.js, React, Flutter
 - **Backend Development**: Node.js, Express, Django, Flask, Go
 - **Database**: MongoDB, SQL
-- **Mobile Development**: Flutter, React Native
+- **Mobile Development**: Flutter, React Native,
+- **Desktop Development**: Electron. 
 - **Machine Learning**: Scikit-learn, NumPy, SciPy,  matplotlib and TensorFlow  
 - **Community Building**: CleanCodeAcademy
 
