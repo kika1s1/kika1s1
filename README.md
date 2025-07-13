@@ -43,6 +43,4 @@ const techStack = {
 - Mentoring developers through CleanCodeAcademy
 
 
-<div align="center">
-  <i>Let's build something amazing together!</i>
-</div> 
+<div align="center"> <i>Let's build something amazing together!</i> </div> <br/> <div align="center"> <a href="mailto:tammirat.kebede@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Hire%20Me-%23FF5722?style=for-the-badge&logo=Handshake&logoColor=white" alt="Hire Me"> </a> </div>
