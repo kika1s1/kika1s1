@@ -1,46 +1,51 @@
-I'm a passionate Full-Stack Developer with over 4 years of experience, specializing in building scalable and user friendly web and mobile applications. I'm also a machine learning and AI enthusiast, constantly exploring how intelligent systems can enhance modern software solutions. I enjoy combining full-stack development with AI to create smarter, more efficient, and data-driven applications.
+# Full-Stack Developer & AI Enthusiast
 
-### 💡 Core Competencies
+I am a seasoned Full-Stack Developer with over 4 years of professional experience, specializing in the design and implementation of scalable, user-centric web and mobile applications. My expertise extends into machine learning and artificial intelligence, where I continuously explore innovative approaches to integrate intelligent systems into modern software solutions. My passion lies in combining comprehensive full-stack development capabilities with cutting-edge AI technologies to deliver smarter, more efficient, and data-driven applications.
 
-- **Frontend Development**: Next.js, React, Flutter
-- **Backend Development**: Node.js, Express, Django, Flask, Go
-- **Database**: MongoDB, SQL
-- **Mobile Development**: Flutter, React Native,
-- **Desktop Development**: Electron. 
-- **Machine Learning**: Scikit-learn, NumPy, SciPy,  matplotlib and TensorFlow  
-- **Community Building**: CleanCodeAcademy
+## 💡 Core Competencies
 
-### 🛠️ Tech Stack
+**Frontend Development**: Next.js, React, Flutter  
+**Backend Development**: Node.js, Express, Django, Flask, Go  
+**Database Management**: MongoDB, SQL  
+**Mobile Development**: Flutter, React Native  
+**Desktop Development**: Electron  
+**Machine Learning & AI**: Scikit-learn, NumPy, SciPy, Matplotlib, TensorFlow  
+**Community Leadership**: Founder and leader of CleanCodeAcademy  
+
+## 🛠️ Technical Stack
 
 ```javascript
-const techStack = {
+const professionalTechStack = {
   frontend: ['Next.js', 'React', 'Flutter', 'React Native'],
   backend: ['Node.js', 'Express', 'Django', 'Flask', 'Go'],
   database: ['MongoDB', 'SQL'],
-  tools: ['Git', 'Docker', 'REST APIs']
+  tools: ['Git', 'Docker', 'REST APIs'],
+  machineLearning: ['Scikit-learn', 'TensorFlow', 'NumPy', 'SciPy']
 };
 ```
 
- <!-- ### 📫 Let's Connect! -->
+## 🎯 Current Professional Focus
 
-<div align="left">
-<!--   <a href="mailto:tamiratkebede120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge" alt="Email">
-  </a> -->
-<!--   <a href="https://flowcv.com/resume/7ov4mtn735/">
-    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge" alt="Resume">
+- **Enterprise Application Development**: Building and maintaining scalable web applications for diverse business requirements
+- **Open Source Contribution**: Active participation in open-source projects and community-driven development initiatives
+- **Algorithm Optimization**: Solving complex algorithmic challenges and implementing efficient solutions
+- **Technical Mentorship**: Leading CleanCodeAcademy to guide and mentor emerging developers in best practices and clean code principles
+
+## 🤝 Professional Engagement
+
+I am committed to fostering innovation through collaboration and knowledge sharing. Whether you're looking to build a cutting-edge application, implement AI-driven solutions, or need technical consultation, I bring both technical expertise and strategic thinking to every project.
+
+---
+
+<div align="center">
+  <strong>Ready to collaborate on your next project?</strong>
+</div>
+
+<div align="center">
+  <a href="mailto:tammirat.kebede@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-%23007ACC?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Contact Me">
   </a>
-<!--   <a href="https://t.me/cleancodeacademy/">
-    <img src="https://img.shields.io/badge/Telegram_Community-blue?style=for-the-badge" alt="Telegram">
-  </a> --> 
-<!-- </div> -->
-
-### 🎯 Current Focus
-
-- Building scalable web applications
-- Contributing to open-source projects
-- Solving complex algorithmic challenges
-- Mentoring developers through CleanCodeAcademy
-
-
-<div align="center"> <i>Let's build something amazing together!</i> </div> <br/> <div align="center"> <a href="mailto:tammirat.kebede@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Hire%20Me-%23FF5722?style=for-the-badge&logo=Handshake&logoColor=white" alt="Hire Me"> </a> </div>
+  <a href="https://buymeacoffee.com/kika1s1" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</div>
