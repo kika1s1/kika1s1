@@ -2,7 +2,7 @@
 
 I am a seasoned Full-Stack Developer with over 4 years of professional experience, specializing in the design and implementation of scalable, user-centric web and mobile applications. My expertise extends into machine learning and artificial intelligence, where I continuously explore innovative approaches to integrate intelligent systems into modern software solutions. My passion lies in combining comprehensive full-stack development capabilities with cutting-edge AI technologies to deliver smarter, more efficient, and data-driven applications.
 
-## 💡 Core Competencies
+##  Core Competencies
 
 **Frontend Development**: Next.js, React, Flutter  
 **Backend Development**: Node.js, Express, Django, Flask, Go  
@@ -12,7 +12,7 @@ I am a seasoned Full-Stack Developer with over 4 years of professional experienc
 **Machine Learning & AI**: Scikit-learn, NumPy, SciPy, Matplotlib, TensorFlow  
 **Community Leadership**: Founder and leader of CleanCodeAcademy  
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ```javascript
 const professionalTechStack = {
@@ -24,14 +24,14 @@ const professionalTechStack = {
 };
 ```
 
-## 🎯 Current Professional Focus
+##  Current Professional Focus
 
 - **Enterprise Application Development**: Building and maintaining scalable web applications for diverse business requirements
 - **Open Source Contribution**: Active participation in open-source projects and community-driven development initiatives
 - **Algorithm Optimization**: Solving complex algorithmic challenges and implementing efficient solutions
 - **Technical Mentorship**: Leading CleanCodeAcademy to guide and mentor emerging developers in best practices and clean code principles
 
-## 🤝 Professional Engagement
+##  Professional Engagement
 
 I am committed to fostering innovation through collaboration and knowledge sharing. Whether you're looking to build a cutting-edge application, implement AI-driven solutions, or need technical consultation, I bring both technical expertise and strategic thinking to every project.
 
