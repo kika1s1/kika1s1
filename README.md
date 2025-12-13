@@ -1,6 +1,6 @@
 # Full-Stack Developer & Tech Nerd
 
-I am a seasoned Full-Stack Developer with over 4 years of professional experience, specializing in the design and implementation of scalable, user-centric web and mobile applications. My expertise extends into machine learning and artificial intelligence, where I continuously explore innovative approaches to integrate intelligent systems into modern software solutions. My passion lies in combining comprehensive full-stack development capabilities with cutting-edge AI technologies to deliver smarter, more efficient, and data-driven applications.
+I am a Senior Full Stack Develope. My expertise extends into machine learning and artificial intelligence, where I continuously explore innovative approaches to integrate intelligent systems into modern software solutions. My passion lies in combining comprehensive full-stack development capabilities with cutting-edge AI technologies to deliver smarter, more efficient, and data-driven applications.
 
 ##  Core Competencies
 
