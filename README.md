@@ -10,7 +10,7 @@ I am a seasoned Full-Stack Developer with over 4 years of professional experienc
 **Mobile Development**: Flutter, React Native  
 **Desktop Development**: Electron  
 **Machine Learning & AI**: Scikit-learn, NumPy, SciPy, Matplotlib, TensorFlow  
-**Community Leadership**: Founder and leader of CleanCodeAcademy  
+**Community Leadership**: Founder AfriDev
 
 ##  Technical Stack
 
