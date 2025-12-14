@@ -31,9 +31,6 @@ const professionalTechStack = {
 - **Algorithm Optimization**: Solving complex algorithmic challenges and implementing efficient solutions
 - **Technical Mentorship**: Leading CleanCodeAcademy to guide and mentor emerging developers in best practices and clean code principles
 
-##  Professional Engagement
-
-I am committed to fostering innovation through collaboration and knowledge sharing. Whether you're looking to build a cutting-edge application, implement AI-driven solutions, or need technical consultation, I bring both technical expertise and strategic thinking to every project.
 
 ---
 
