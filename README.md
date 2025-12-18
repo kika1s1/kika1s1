@@ -10,7 +10,7 @@ I am a Senior Full Stack Develope. My expertise extends into machine learning an
 **Mobile Development**: Flutter, React Native  
 **Desktop Development**: Electron  
 **Machine Learning & AI**: Scikit-learn, NumPy, SciPy, Matplotlib, TensorFlow  
-**Community Leadership**: Founder AfriDev
+**Community Leadership**: Founder AfriDev & CleanCodeAcademy
 
 ##  Technical Stack
 
