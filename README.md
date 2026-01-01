@@ -1,5 +1,5 @@
 # Tech Nerd
-I am a Senior Full Stack Develope.
+I am a Senior Full Stack Developer
 ##  Core Competencies
 
 **Frontend Development**: Next.js, React, Flutter  
