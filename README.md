@@ -1,7 +1,5 @@
-# Full-Stack Developer & Tech Nerd
-
-I am a Senior Full Stack Develope. My expertise extends into machine learning and artificial intelligence, where I continuously explore innovative approaches to integrate intelligent systems into modern software solutions. My passion lies in combining comprehensive full-stack development capabilities with cutting-edge AI technologies to deliver smarter, more efficient, and data-driven applications.
-
+# Tech Nerd
+I am a Senior Full Stack Develope.
 ##  Core Competencies
 
 **Frontend Development**: Next.js, React, Flutter  
