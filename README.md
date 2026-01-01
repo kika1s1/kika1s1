@@ -14,11 +14,7 @@ const professionalTechStack = {
 ```
 
 ##  Current Professional Focus
-
-- **Enterprise Application Development**: Building and maintaining scalable web applications for diverse business requirements
-- **Open Source Contribution**: Active participation in open-source projects and community-driven development initiatives
-- **Algorithm Optimization**: Solving complex algorithmic challenges and implementing efficient solutions
-- **Technical Mentorship**: Leading AfriDeveAcademy & afridev to guide and mentor emerging developers in best practices and clean code principles
+Leading AfriDeveAcademy & afridev to guide and mentor emerging developers in best practices and clean code principles
 
 
 
