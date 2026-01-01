@@ -1,6 +1,6 @@
 # Tech Nerd
 I am a Senior Full Stack Developer
-##  Core Competencies
+##  My Tools
 
 **Frontend Development**: Next.js, React, Flutter  
 **Backend Development**: Node.js, Express, Django, Flask, Go  
