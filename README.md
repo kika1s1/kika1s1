@@ -1,14 +1,5 @@
 # Tech Nerd
 I am a Senior Full Stack Developer
-##  My Tools
-
-**Frontend Development**: Next.js, React, Flutter  
-**Backend Development**: Node.js, Express, Django, Flask, Go  
-**Database Management**: MongoDB, SQL  
-**Mobile Development**: Flutter, React Native  
-**Desktop Development**: Electron  
-**Machine Learning & AI**: Scikit-learn, NumPy, SciPy, Matplotlib, TensorFlow  
-**Community Leadership**: Founder AfriDev & AfriDevAcademy
 
 ##  Technical Stack
 
