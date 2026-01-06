@@ -1,5 +1,5 @@
 # Tech Nerd
-I am a Senior Full Stack Developer
+Senior Full Stack Engineer
 ##  Technical Stack
 ```javascript
 const professionalTechStack = {
