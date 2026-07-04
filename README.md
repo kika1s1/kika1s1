@@ -1,6 +1,5 @@
 <div align="center">
 
-# Tamirat Kebede
 
 ### Senior Full-Stack Developer
 
