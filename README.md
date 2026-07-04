@@ -1,12 +1,34 @@
+<div align="center">
+
+# Tamirat Kebede
+
+### Senior Full-Stack Developer
+
+Building scalable backend systems, modern web applications, and AI-powered solutions.
 
 
-<p align="center">
-Early stage builder crafting bold tech.<br/>
-If it doesn’t exist, I build it.
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> About
+
+Backend-focused software engineer passionate about clean architecture, scalable systems, and solving real-world problems.
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18"/> Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,js,ts,react,redux,tailwind,mongodb,postgres,docker,git,linux" />
 </p>
 
-<p align="center">
-<a href="https://www.tamiratkebede.com/">
-  <img src="https://img.shields.io/badge/Portfolio-TamiratKebede-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-</p>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> Interests
+
+- Backend Engineering
+- Distributed Systems
+- Artificial Intelligence
+- System Design
+---
+
